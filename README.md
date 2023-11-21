@@ -1,3 +1,11 @@
+# How To Access Source Code:
+1.) Open the source code text file from the repository.
+
+2.) Inside the text file there will be a google drive link to the zip file of source code. Copy this link and paste it into a web browser.
+
+3.) After opening the google drive link, you can view and download the source code.
+
+#
 # © Age-and-Gender-Recognition-with-Facial-Images-Using-CNN 2023
 
 © ALL RIGHTS RESERVED BY P R HARSHITH, D RAMYA, P V SAI SUMEETH 2023. 
